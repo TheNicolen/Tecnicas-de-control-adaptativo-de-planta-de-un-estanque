@@ -1,0 +1,2 @@
+08eab633724b58716847a26072fe204afb8664d93dc47ed6782bbf23242d2741  docs/informe-gain-scheduling.pdf
+6cae66d16585a570ab09cd6e1c6a69c8593731b550212dbb23c9c8f3f48d1dad  docs/preinforme-control-batch.pdf
